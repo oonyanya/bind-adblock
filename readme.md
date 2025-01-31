@@ -1,5 +1,6 @@
 # 使い方
 
+
 ## name.confを設定する
 
 BIND9.8.8.以降をダウンロードしセットアップする。
@@ -47,3 +48,9 @@ https://280blocker.netから280blocker_domain.txtを落とす。
 
 当該ファイルを落とし終わったら、add_blocklist.cmdのOUTPUT_FOLDERを適切な場所に書き換え、
 add_blocklist.cmdとrestart_dns.cmdを実行する。
+
+
+## user_block_domain.txtについて
+
+このファイルに任意のドメインを追加することができる。
+なお、UTF-8 BOMなしで保存しないとうまく動かないかもしれません。
