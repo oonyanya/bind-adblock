@@ -1,0 +1,9 @@
+$TTL 600
+@       IN SOA  ns1.cowcowlocal.com. root.cowcowlocal.com. (
+                                        1       ; serial
+                                        60      ; refresh
+                                        60      ; retry
+                                        60      ; expire
+                                        60 )    ; minimum
+        IN NS   ns1.cowcowlocal.com.
+
