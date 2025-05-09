@@ -43,11 +43,9 @@ https://www.internic.net/domain/named.rootからname.confのoptionのdirectoryで指定
 
 ## rpz.localを作成する
 
-https://280blocker.netから280blocker_domain.txtを落とす。
-この際、BOMはつけないでこと。
-
-当該ファイルを落とし終わったら、add_blocklist.cmdのOUTPUT_FOLDERを適切な場所に書き換え、
-add_blocklist.cmdとrestart_dns.cmdを実行する。
+https://280blocker.netから280blocker_domainほにゃらら.txtを落とす。
+parse280blocker.ps1を実行する。
+add_blocklist.cmdのOUTPUT_FOLDERを適切な場所に書き換え、add_blocklist.cmdとrestart_dns.cmdを実行する。
 
 
 ## user_block_domain.txtについて
