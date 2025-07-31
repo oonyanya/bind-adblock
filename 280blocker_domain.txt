@@ -2925,6 +2925,24 @@ creative.live.javdock.com
 yjo.youjizz.com
 *.getallmedia.com
 *.ads-lite2.net
+*.unibotscdn.com
+*.unibots.in
+*.d-markets.net
+*.kzuocxorfo.com
+*.ivmxckqpfddky.com
+*.tcrzhmdjeswj.com
+*.pubadx.one
+yn.algiersreests.com
+*.bngrol.com
+*.clickadu.net
+amawidget.yutbr.com
+api.ada-cloud.com
+recruitbox.media.iid.jp
+*.godkc.com
+*.wary-prior.com
+*.ds6n6c.com
+ib.semaisetything.com
+xr.staxisclivias.com
 
 
 
